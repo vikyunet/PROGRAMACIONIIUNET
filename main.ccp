@@ -47,6 +47,7 @@ int main() {
     } else {
         cout << "Opcion invalida." << endl;
     }
+//finalizado
 
     return 0;
 }
